@@ -7,4 +7,4 @@ This project demonstrates the use of Power BI for analyzing healthcare data. The
 - **Analysis:** Detailed analysis on patient demographics, feedbacks of patients, resource utilization, and more.
 - **Interactive Dashboards:** Users can interact with the dashboards to explore the data and drill down into specific areas of interest.
 ## Dataset
-The dataset used in this project is sourced from [source name]. It includes [brief description of the dataset, e.g., patient records, treatment data, etc.].
+To access the dataset open [healthcare dataset]( I
