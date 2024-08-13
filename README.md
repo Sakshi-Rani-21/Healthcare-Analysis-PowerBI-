@@ -11,4 +11,4 @@ This project demonstrates the use of Power BI for analyzing healthcare data. The
 - To see the power bi dashboard first download Microsoft Power BI then open [healthcare dashboard](https://github.com/Sakshi-Rani-21/Healthcare-Analysis-PowerBI-/blob/main/HEALTHCARE%20PROJECT.pbix)
 
 ## DASHBOARD PREVIEW:
-![Heathcare Dashboard](https://github.com/Sakshi-Rani-21/HR-Analytics-Dashboard-Excel/blob/5b8b88aeb98b5a3ab20a2b9dde648b4e10b4c2fa/HR%20ANALYTICS%20DASHBOARD-EXCEL.png)
+![Heathcare Dashboard](https://github.com/Sakshi-Rani-21/Healthcare-Analysis-PowerBI-/blob/759d0748a88a3c8e651fb5ef7c6c2c0212b8c850/Healthcare%20Dsahboard.png)
